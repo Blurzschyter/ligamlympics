@@ -7426,9 +7426,9 @@
                 "showMore": 0,
                 "pageId": 300
             },
-            "categoryCode": "G1001",
+            "categoryCode": "G0001",
             "id": "801",
-            "type": "3",
+            "type": "4",
             "index": "1",
             "description": [
                 {
@@ -7459,9 +7459,9 @@
                 "showMore": 0,
                 "pageId": 300
             },
-            "categoryCode": "G1001",
+            "categoryCode": "G0001",
             "id": "802",
-            "type": "3",
+            "type": "4",
             "index": "2",
             "description": [
                 {
