@@ -24,4 +24,6 @@ const LOG_TAG = 'MyAPP.LOG';
 
 // castDebugLogger.info(LOG_TAG, 'nizar Intercepting LOAD request');
 
+console.log("nizar lolallal");
+
 context.start();
