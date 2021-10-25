@@ -23,7 +23,9 @@ const LOG_TAG = 'MyAPP.LOG';
 // };
 
 // castDebugLogger.info(LOG_TAG, 'nizar Intercepting LOAD request');
-
+var start = window.onload = function () {
+  console.log('nizar test 234')
+};
 console.log("nizar lolallal");
 
 context.start();
