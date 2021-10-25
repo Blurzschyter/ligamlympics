@@ -17,4 +17,11 @@ castDebugLogger.loggerLevelByEvents = {
   'cast.framework.events.EventType.MEDIA_STATUS': cast.framework.LoggerLevel.DEBUG
 }
 
+// Set verbosity level for custom tags.
+castDebugLogger.loggerLevelByTags = {
+  LOG_TAG: cast.framework.LoggerLevel.DEBUG,
+};
+
+castDebugLogger.info(LOG_TAG, 'nizar Intercepting LOAD request');
+
 context.start();
