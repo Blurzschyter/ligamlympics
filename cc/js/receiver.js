@@ -36,6 +36,8 @@ var datalol = function () {
         console.log('nizar loadRequest:', loadRequestData);
       
     })
+
+    context.start();
 }
 
-context.start();
+
