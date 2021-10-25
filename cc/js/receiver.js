@@ -25,7 +25,17 @@ const LOG_TAG = 'MyAPP.LOG';
 // castDebugLogger.info(LOG_TAG, 'nizar Intercepting LOAD request');
 var start = window.onload = function () {
   console.log('nizar test 234')
+  datalol()
 };
 console.log("nizar lolallal");
+
+var datalol = function () {
+  playerManager.setMessageInterceptor(
+
+    cast.framework.messages.MessageType.LOAD, loadRequestData => {
+        console.log('nizar loadRequest:', loadRequestData);
+      
+    })
+}
 
 context.start();
