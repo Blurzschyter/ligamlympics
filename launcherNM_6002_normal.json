@@ -61,6 +61,23 @@
       ]
     },
     {
+      "title": "YuppTV",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "SW6000"
+          ]
+        }
+      ]
+    },
+    {
       "title": "HIGHLIGHTS",
       "apiType": "hw",
       "action": "0",
