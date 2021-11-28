@@ -18,6 +18,23 @@
       ]
     },
     {
+      "title": "YuppTV",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "SW7000"
+          ]
+        }
+      ]
+    },
+    {
       "title": "CONTINUE WATCHING",
       "apiType": "hw",
       "action": "0",
@@ -61,7 +78,7 @@
       ]
     },
     {
-      "title": "HIGHLIGHTS - yupptv",
+      "title": "HIGHLIGHTS",
       "apiType": "hw",
       "action": "0",
       "colCell": "homevodcolcell",
@@ -72,7 +89,7 @@
         {
           "key": "subjectID",
           "values": [
-            "SW7000"
+            "SW1001"
           ]
         }
       ]
