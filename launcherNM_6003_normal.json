@@ -18,6 +18,40 @@
       ]
     },
     {
+      "title": "YuppTV",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "H7000"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dimsum",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": [
+            "H8000"
+          ]
+        }
+      ]
+    },
+    {
       "title": "CONTINUE WATCHING",
       "apiType": "hw",
       "action": "0",
