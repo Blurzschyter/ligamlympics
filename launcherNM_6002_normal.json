@@ -18,7 +18,7 @@
       ]
     },
     {
-      "title": "Promotions",
+      "title": "Dimsum",
       "apiType": "hw",
       "action": "0",
       "colCell": "homevodcolcell",
@@ -29,7 +29,7 @@
         {
           "key": "subjectID",
           "values": [
-            "SW7000"
+            "SW8000"
           ]
         }
       ]
