@@ -35,7 +35,7 @@
       ]
     },
     {
-      "title": "Dimsum",
+      "title": "YuppTV",
       "apiType": "hw",
       "action": "0",
       "colCell": "homevodcolcell",
@@ -46,7 +46,7 @@
         {
           "key": "subjectID",
           "values": [
-            "SW8000"
+            "SW7000"
           ]
         }
       ]
