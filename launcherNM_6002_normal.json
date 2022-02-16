@@ -39,7 +39,7 @@
       "apiType": "hw",
       "action": "0",
       "colCell": "homevodcolcell",
-      "showMore": "0",
+      "showMore": "1",
       "type": "3",
       "count": "10",
       "extensionFields": [
