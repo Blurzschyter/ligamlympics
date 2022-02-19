@@ -5,7 +5,7 @@
       "index": 0,
       "rowTitle": "Liga Malaysia 2023",
       "hideDisplay": true,
-      "apiType": "nm10",
+      "apiType": "nm0",
       "channelList": [
         {
           "index": "1",
@@ -49,7 +49,7 @@
       "index": 1,
       "rowTitle": "BEIJING 2022",
       "hideDisplay": true,
-      "apiType": "nm11",
+      "apiType": "nm1",
       "channelList": [
         {
           "index": "1",
@@ -93,7 +93,7 @@
       "index": 2,
       "rowTitle": "Sukan Asean 2023",
       "hideDisplay": true,
-      "apiType": "nm12",
+      "apiType": "nm2",
       "channelList": [
         {
           "index": "1",
