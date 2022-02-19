@@ -17,7 +17,7 @@
     },
     {
       "title": "OLYMPIC GAMES TOKYO 2020",
-      "apiType": "nm1",
+      "apiType": "nm0",
       "action": "1",
       "colCell": "homevodcolcell",
       "showMore": "0",
@@ -26,7 +26,7 @@
     },
     {
       "title": "BEIJING 2022",
-      "apiType": "nm2",
+      "apiType": "nm1",
       "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
