@@ -19,7 +19,7 @@
     },
     {
       "title": "WINTER BEIJING 2022",
-      "apiType": "nm1",
+      "apiType": "nm0",
       "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
@@ -28,7 +28,7 @@
     },
     {
       "title": "OLYMPIC TOKYO 2020",
-      "apiType": "nm2",
+      "apiType": "nm1",
       "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
@@ -37,7 +37,7 @@
     },
     {
       "title": "ASEAN GAMES 2022",
-      "apiType": "nm3",
+      "apiType": "nm2",
       "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
@@ -46,7 +46,7 @@
     },
     {
       "title": "TOP GEAR PRO",
-      "apiType": "nm4",
+      "apiType": "nm3",
       "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
@@ -55,7 +55,7 @@
     },
     {
       "title": "NINTENDO ZELDA COMPETITION",
-      "apiType": "nm5",
+      "apiType": "nm4",
       "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
@@ -63,8 +63,8 @@
       "count": "0"
     },
     {
-      "title": "MALAYSIA BOLEH",
-      "apiType": "nm6",
+      "title": "MILO MALAYSIA BOLEH",
+      "apiType": "nm5",
       "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
