@@ -100,7 +100,7 @@
       ]
     },
     {
-      "title": "HIGHLIGHTS",
+      "title": "HIGHLIGHTS xoxo",
       "apiType": "hw",
       "action": "0",
       "colCell": "homevodcolcell",
@@ -186,6 +186,21 @@
         {
           "key": "subjectID",
           "values": ["G3005"]
+        }
+      ]
+    },
+    {
+      "title": "INFO",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["G21002"]
         }
       ]
     },
