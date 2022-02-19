@@ -11,14 +11,12 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G1001"
-          ]
+          "values": ["G1001"]
         }
       ]
     },
     {
-      "title": "WINTER BEIJING 2022",
+      "title": "WINTER BEIJING 2022 xoxo",
       "apiType": "nm0",
       "action": "0",
       "colCell": "homevodcolcell",
@@ -82,9 +80,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G4000"
-          ]
+          "values": ["G4000"]
         }
       ]
     },
@@ -99,9 +95,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G5001"
-          ]
+          "values": ["G5001"]
         }
       ]
     },
@@ -116,9 +110,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G1001"
-          ]
+          "values": ["G1001"]
         }
       ]
     },
@@ -133,9 +125,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G2005"
-          ]
+          "values": ["G2005"]
         }
       ]
     },
@@ -150,9 +140,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G2001"
-          ]
+          "values": ["G2001"]
         }
       ]
     },
@@ -167,9 +155,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G2003"
-          ]
+          "values": ["G2003"]
         }
       ]
     },
@@ -184,9 +170,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G3002"
-          ]
+          "values": ["G3002"]
         }
       ]
     },
@@ -201,9 +185,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "G3005"
-          ]
+          "values": ["G3005"]
         }
       ]
     },
