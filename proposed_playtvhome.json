@@ -48,7 +48,7 @@
     {
       "index": 1,
       "rowTitle": "BEIJING 2022",
-      "hideDisplay": true,
+      "hideDisplay": false,
       "apiType": "nm1",
       "channelList": [
         {
