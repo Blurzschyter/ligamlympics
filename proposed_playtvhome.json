@@ -1,11 +1,11 @@
 {
-  "totalMaxRow" : 5,
+  "totalMaxRow": 5,
   "customPlayTVHomeRow": [
     {
       "index": 0,
       "rowTitle": "Liga Malaysia 2023",
       "hideDisplay": true,
-      "apiType": "nm1",
+      "apiType": "nm0",
       "channelList": [
         {
           "index": "1",
@@ -47,8 +47,52 @@
     },
     {
       "index": 1,
-      "rowTitle": "Sukan Asean 2023",
+      "rowTitle": "BEIJING 2022",
       "hideDisplay": false,
+      "apiType": "nm1",
+      "channelList": [
+        {
+          "index": "1",
+          "productID": "US2",
+          "channelID": "41210859",
+          "channelID_6001": "41210859",
+          "channelID_6002": "41210859",
+          "channelID_6003": "41210859",
+          "channelID_8601": "41210859",
+          "title": "Unifi Sports 2 HD",
+          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD2_B2.jpg",
+          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD2_A2.jpg"
+        },
+        {
+          "index": "2",
+          "productID": "US3",
+          "channelID": "52026408",
+          "channelID_6001": "52026408",
+          "channelID_6002": "52026408",
+          "channelID_6003": "52026408",
+          "channelID_8601": "52026408",
+          "title": "Unifi Sports 3 HD",
+          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD3_B2.jpg",
+          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD3_A2.jpg"
+        },
+        {
+          "index": "3",
+          "productID": "US4",
+          "channelID": "54199255",
+          "channelID_6001": "54199255",
+          "channelID_6002": "54199255",
+          "channelID_6003": "54199255",
+          "channelID_8601": "54199255",
+          "title": "Unifi Sports 4 HD",
+          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD4_B2.jpg",
+          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD4_A2.jpg"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "rowTitle": "Sukan Asean 2023",
+      "hideDisplay": true,
       "apiType": "nm2",
       "channelList": [
         {
