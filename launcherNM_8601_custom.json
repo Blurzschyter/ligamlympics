@@ -18,17 +18,53 @@
       ]
     },
     {
-      "title": "TOKYO 2020 OLYMPIC GAMES custom github",
-      "apiType": "nm1",
-      "action": "1",
+      "title": "WINTER BEIJING 2022",
+      "apiType": "nm0",
+      "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
       "type": "4",
       "count": "0"
     },
     {
-      "title": "LIGA MALAYSIA",
+      "title": "OLYMPIC TOKYO 2020",
+      "apiType": "nm1",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0"
+    },
+    {
+      "title": "ASEAN GAMES 2022",
       "apiType": "nm2",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0"
+    },
+    {
+      "title": "TOP GEAR PRO",
+      "apiType": "nm3",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0"
+    },
+    {
+      "title": "NINTENDO ZELDA COMPETITION",
+      "apiType": "nm4",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0"
+    },
+    {
+      "title": "MILO MALAYSIA BOLEH",
+      "apiType": "nm5",
       "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
@@ -150,23 +186,6 @@
           "key": "subjectID",
           "values": [
             "G3002"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "AL HIJRAH ON DEMAND",
-      "apiType": "hw",
-      "action": "0",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "G3003"
           ]
         }
       ]
