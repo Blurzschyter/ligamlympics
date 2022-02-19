@@ -12,41 +12,7 @@
         {
           "key": "subjectID",
           "values": [
-            "SW7000"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Dimsum",
-      "apiType": "hw",
-      "action": "0",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "SW8000"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "TRENDING NOW",
-      "apiType": "hw",
-      "action": "0",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": [
-            "SW7000"
+            "SW1001"
           ]
         }
       ]
