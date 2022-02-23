@@ -35,7 +35,7 @@
     },
     {
       "title": "ASEAN GAMES 2022",
-      "apiType": "nm2",
+      "apiType": "nm12",
       "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
@@ -44,7 +44,7 @@
     },
     {
       "title": "TOP GEAR PRO",
-      "apiType": "nm3",
+      "apiType": "nm13",
       "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
@@ -53,7 +53,7 @@
     },
     {
       "title": "NINTENDO ZELDA COMPETITION",
-      "apiType": "nm4",
+      "apiType": "nm14",
       "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
@@ -62,7 +62,7 @@
     },
     {
       "title": "MILO MALAYSIA BOLEH",
-      "apiType": "nm5",
+      "apiType": "nm15",
       "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
