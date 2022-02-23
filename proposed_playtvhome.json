@@ -2,9 +2,9 @@
   "totalMaxRow": 5,
   "customPlayTVHomeRow": [
     {
-      "index": 0,
+      "index": 1,
       "rowTitle": "Liga Malaysia 2023",
-      "hideDisplay": true,
+      "hideDisplay": false,
       "apiType": "nm0",
       "channelList": [
         {
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "index": 1,
+      "index": 0,
       "rowTitle": "BEIJING 2022",
       "hideDisplay": false,
       "apiType": "nm1",
@@ -92,7 +92,7 @@
     {
       "index": 2,
       "rowTitle": "Sukan Asean 2023",
-      "hideDisplay": true,
+      "hideDisplay": false,
       "apiType": "nm2",
       "channelList": [
         {
