@@ -1,193 +1,175 @@
 {
-    "request": [
+  "request": [
+    {
+      "title": "BANNER",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "bannercolcell",
+      "showMore": "0",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
         {
-            "title": "BANNER",
-            "apiType": "hw",
-            "action": "0",
-            "colCell": "bannercolcell",
-            "showMore": "0",
-            "type": "3",
-            "count": "10",
-            "extensionFields": [
-                {
-                    "key": "subjectID",
-                    "values": [
-                        "UW1001"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "OLYMPIC GAMES TOKYO 2020",
-            "apiType": "nm1",
-            "action": "1",
-            "colCell": "homevodcolcell",
-            "showMore": "0",
-            "type": "4",
-            "count": "0"
-        },
-        {
-            "title": "LIGA SUPER 2022",
-            "apiType": "nm2",
-            "action": "0",
-            "colCell": "homevodcolcell",
-            "showMore": "0",
-            "type": "4",
-            "count": "0"
-        },
-        {
-            "title": "CONTINUE WATCHING",
-            "apiType": "hw",
-            "action": "0",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "type": "11",
-            "count": "20"
-        },
-        {
-            "title": "SNEK",
-            "apiType": "hw",
-            "action": "0",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "type": "1",
-            "count": "5",
-            "extensionFields": [
-                {
-                    "key": "subjectID",
-                    "values": [
-                        "UW4000"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "UNIFI TV ORIGINALS",
-            "apiType": "hw",
-            "action": "0",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "type": "3",
-            "count": "10",
-            "extensionFields": [
-                {
-                    "key": "subjectID",
-                    "values": [
-                        "UW5001"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "HIGHLIGHTS",
-            "apiType": "hw",
-            "action": "0",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "type": "3",
-            "count": "10",
-            "extensionFields": [
-                {
-                    "key": "subjectID",
-                    "values": [
-                        "UW1001"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "RECOMMENDED MOVIES",
-            "apiType": "hw",
-            "action": "0",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "type": "3",
-            "count": "10",
-            "extensionFields": [
-                {
-                    "key": "subjectID",
-                    "values": [
-                        "UW2005"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "RECOMMENDED SERIES",
-            "apiType": "hw",
-            "action": "0",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "type": "3",
-            "count": "10",
-            "extensionFields": [
-                {
-                    "key": "subjectID",
-                    "values": [
-                        "UW2001"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "KIDS",
-            "apiType": "hw",
-            "action": "0",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "type": "3",
-            "count": "10",
-            "extensionFields": [
-                {
-                    "key": "subjectID",
-                    "values": [
-                        "UW2003"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "BBC FIRST HD",
-            "apiType": "hw",
-            "action": "0",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "type": "3",
-            "count": "10",
-            "extensionFields": [
-                {
-                    "key": "subjectID",
-                    "values": [
-                        "UW3002"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "NOW BAOGU MOVIES",
-            "apiType": "hw",
-            "action": "0",
-            "colCell": "homevodcolcell",
-            "showMore": "1",
-            "type": "3",
-            "count": "10",
-            "extensionFields": [
-                {
-                    "key": "subjectID",
-                    "values": [
-                        "UW3005"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "LIVE TV",
-            "apiType": "hw",
-            "action": "0",
-            "colCell": "homechannelcolcell",
-            "showMore": "1",
-            "type": "9",
-            "count": "50"
+          "key": "subjectID",
+          "values": ["UW1001"]
         }
-    ]
+      ]
+    },
+    {
+      "title": "OLYMPIC GAMES TOKYO 2020",
+      "apiType": "nm1",
+      "action": "1",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0"
+    },
+    {
+      "title": "LIGA SUPER 2022",
+      "apiType": "nm2",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "type": "4",
+      "count": "0"
+    },
+    {
+      "title": "CONTINUE WATCHING",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "11",
+      "count": "20"
+    },
+    {
+      "title": "SNEK",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "1",
+      "count": "5",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["UW4000"]
+        }
+      ]
+    },
+    {
+      "title": "UNIFI TV ORIGINALS",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["UW5001"]
+        }
+      ]
+    },
+    {
+      "title": "HIGHLIGHTS",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["UW1001"]
+        }
+      ]
+    },
+    {
+      "title": "RECOMMENDED MOVIES",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["UW2005"]
+        }
+      ]
+    },
+    {
+      "title": "RECOMMENDED SERIES",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["UW2001"]
+        }
+      ]
+    },
+    {
+      "title": "KIDS",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["UW2003"]
+        }
+      ]
+    },
+    {
+      "title": "BBC FIRST HD",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["UW3002"]
+        }
+      ]
+    },
+    {
+      "title": "NOW BAOGU MOVIES",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["UW3005"]
+        }
+      ]
+    },
+    {
+      "title": "LIVE TV",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homechannelcolcell",
+      "showMore": "1",
+      "type": "9",
+      "count": "50"
+    }
+  ]
 }
