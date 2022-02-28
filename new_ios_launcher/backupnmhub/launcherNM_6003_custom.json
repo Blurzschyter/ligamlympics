@@ -16,17 +16,8 @@
       ]
     },
     {
-      "title": "OLYMPIC GAMES TOKYO 2020",
-      "apiType": "nm1",
-      "action": "1",
-      "colCell": "homevodcolcell",
-      "showMore": "0",
-      "type": "4",
-      "count": "0"
-    },
-    {
       "title": "LIGA SUPER 2022",
-      "apiType": "nm2",
+      "apiType": "nm0",
       "action": "0",
       "colCell": "homevodcolcell",
       "showMore": "0",
