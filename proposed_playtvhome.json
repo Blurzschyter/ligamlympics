@@ -2,7 +2,7 @@
   "totalMaxRow": 5,
   "customPlayTVHomeRow": [
     {
-      "index": 1,
+      "index": 0,
       "rowTitle": "Liga Super 2022",
       "hideDisplay": false,
       "apiType": "nm0",
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "index": 0,
+      "index": 1,
       "rowTitle": "BEIJING 2022",
       "hideDisplay": true,
       "apiType": "nm1",
