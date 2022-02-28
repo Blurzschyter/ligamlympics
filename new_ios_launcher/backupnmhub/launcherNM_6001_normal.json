@@ -11,9 +11,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "UW1001"
-          ]
+          "values": ["UW1001"]
         }
       ]
     },
@@ -37,9 +35,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "UW4000"
-          ]
+          "values": ["UW4000"]
         }
       ]
     },
@@ -54,9 +50,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "UW5001"
-          ]
+          "values": ["UW5001"]
         }
       ]
     },
@@ -71,9 +65,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "UW1001"
-          ]
+          "values": ["UW1001"]
         }
       ]
     },
@@ -88,9 +80,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "UW2005"
-          ]
+          "values": ["UW2005"]
         }
       ]
     },
@@ -105,9 +95,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "UW2001"
-          ]
+          "values": ["UW2001"]
         }
       ]
     },
@@ -122,9 +110,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "UW2003"
-          ]
+          "values": ["UW2003"]
         }
       ]
     },
@@ -139,9 +125,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "UW3002"
-          ]
+          "values": ["UW3002"]
         }
       ]
     },
@@ -156,9 +140,7 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "UW3003"
-          ]
+          "values": ["UW3003"]
         }
       ]
     },
@@ -173,9 +155,22 @@
       "extensionFields": [
         {
           "key": "subjectID",
-          "values": [
-            "UW3005"
-          ]
+          "values": ["UW3005"]
+        }
+      ]
+    },
+    {
+      "title": "INFO",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "0",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["UW2002"]
         }
       ]
     },
