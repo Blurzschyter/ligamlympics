@@ -3,52 +3,88 @@
   "customPlayTVHomeRow": [
     {
       "index": 1,
-      "rowTitle": "Liga Malaysia 2023",
+      "rowTitle": "Liga Super 2022",
       "hideDisplay": false,
       "apiType": "nm0",
       "channelList": [
         {
           "index": "1",
-          "productID": "US2",
+          "productID": "MPLS10122",
+          "channelID": "41003422",
+          "channelID_6001": "41003422",
+          "channelID_6002": "41003422",
+          "channelID_6003": "41003422",
+          "channelID_8601": "41003422",
+          "title": "SARAWAK UNITED FC vs KEDAH DARUL AMAN FC",
+          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Week50_SWUvKDA-B2.jpg",
+          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Week50_SWUvKDA-A2.jpg"
+        },
+        {
+          "index": "2",
+          "productID": "MPLS10222",
+          "channelID": "41003404",
+          "channelID_6001": "41003404",
+          "channelID_6002": "41003404",
+          "channelID_6003": "41003404",
+          "channelID_8601": "41003404",
+          "title": "KUALA LUMPUR CITY FC vs SELANGOR FC",
+          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Week50_KLCvSEL-B2.jpg",
+          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Week50_KLCvSEL-A2.jpg"
+        },
+        {
+          "index": "3",
+          "productID": "MPLS10322",
           "channelID": "41210859",
           "channelID_6001": "41210859",
           "channelID_6002": "41210859",
           "channelID_6003": "41210859",
           "channelID_8601": "41210859",
-          "title": "Unifi Sports 2 HD",
-          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD2_B2.jpg",
-          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD2_A2.jpg"
+          "title": "JOHOR DARUL TA'ZIM FC vs PENANG FC",
+          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Week50_JDTvPEN-B2.jpg",
+          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Week50_JDTvPEN-A2.jpg"
         },
         {
-          "index": "2",
-          "productID": "US3",
-          "channelID": "52026408",
-          "channelID_6001": "52026408",
-          "channelID_6002": "52026408",
-          "channelID_6003": "52026408",
-          "channelID_8601": "52026408",
-          "title": "Unifi Sports 3 HD",
-          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD3_B2.jpg",
-          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD3_A2.jpg"
+          "index": "4",
+          "productID": "MPLS10422",
+          "channelID": "41208891",
+          "channelID_6001": "41208891",
+          "channelID_6002": "41208891",
+          "channelID_6003": "41208891",
+          "channelID_8601": "41208891",
+          "title": "SABAH FC v NEGERI SEMBILAN FC",
+          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Week50_SABvNSE-B2.jpg",
+          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Week50_SABvNSE-A2.jpg"
         },
         {
-          "index": "3",
-          "productID": "US4",
-          "channelID": "54199255",
-          "channelID_6001": "54199255",
-          "channelID_6002": "54199255",
-          "channelID_6003": "54199255",
-          "channelID_8601": "54199255",
-          "title": "Unifi Sports 4 HD",
-          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD4_B2.jpg",
-          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD4_A2.jpg"
+          "index": "5",
+          "productID": "MPLS10522",
+          "channelID": "41210859",
+          "channelID_6001": "41210859",
+          "channelID_6002": "41210859",
+          "channelID_6003": "41210859",
+          "channelID_8601": "41210859",
+          "title": "SRI PAHANG FC vs TERENGGANU FC",
+          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Week50_SRPvTER-B2.jpg",
+          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Week50_SABvNSE-A2.jpg"
+        },
+        {
+          "index": "6",
+          "productID": "MPLS10622",
+          "channelID": "41003404",
+          "channelID_6001": "41003404",
+          "channelID_6002": "41003404",
+          "channelID_6003": "41003404",
+          "channelID_8601": "41003404",
+          "title": "PJ CITY FC vs MELAKA UNITED FC",
+          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Week50_PJCvMLU-B2.jpg",
+          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Week50_PJCvMLU-A2.jpg"
         }
       ]
     },
     {
       "index": 0,
       "rowTitle": "BEIJING 2022",
-      "hideDisplay": false,
+      "hideDisplay": true,
       "apiType": "nm1",
       "channelList": [
         {
@@ -92,7 +128,7 @@
     {
       "index": 2,
       "rowTitle": "Sukan Asean 2023",
-      "hideDisplay": false,
+      "hideDisplay": true,
       "apiType": "nm2",
       "channelList": [
         {
