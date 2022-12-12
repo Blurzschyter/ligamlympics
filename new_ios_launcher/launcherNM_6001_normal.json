@@ -70,6 +70,21 @@
       ]
     },
     {
+      "title": "RM5 Promo",
+      "apiType": "hw",
+      "action": "0",
+      "colCell": "homevodcolcell",
+      "showMore": "1",
+      "type": "3",
+      "count": "10",
+      "extensionFields": [
+        {
+          "key": "subjectID",
+          "values": ["UW1008"]
+        }
+      ]
+    },
+    {
       "title": "RECOMMENDED MOVIES",
       "apiType": "hw",
       "action": "0",
