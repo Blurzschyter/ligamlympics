@@ -130,36 +130,6 @@
       ]
     },
     {
-      "title": "AL HIJRAH ON DEMAND",
-      "apiType": "hw",
-      "action": "0",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": ["UW3003"]
-        }
-      ]
-    },
-    {
-      "title": "NOW BAOGU MOVIES",
-      "apiType": "hw",
-      "action": "0",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "3",
-      "count": "10",
-      "extensionFields": [
-        {
-          "key": "subjectID",
-          "values": ["UW3005"]
-        }
-      ]
-    },
-    {
       "title": "INFO",
       "apiType": "hw",
       "action": "0",
