@@ -2438,25 +2438,25 @@
                             "forceDefaultData": "false",
                             "elementDatas": [
                                 {
-                                    "contentURL": "",
+                                    "contentURL": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/FLA2_KeyArt.jpg",
                                     "name": [
                                         {
                                             "language": "en",
-                                            "value": "r1"
+                                            "value": "dummy 1"
                                         },
                                         {
                                             "language": "zh",
-                                            "value": ""
+                                            "value": "dummy 1"
                                         }
                                     ],
                                     "description": [
                                         {
                                             "language": "en",
-                                            "value": ""
+                                            "value": "dummy desc"
                                         },
                                         {
                                             "language": "zh",
-                                            "value": ""
+                                            "value": "dummy desc"
                                         }
                                     ],
                                     "extraData": {},
