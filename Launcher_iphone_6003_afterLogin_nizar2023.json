@@ -2435,7 +2435,7 @@
                             "id": "80400",
                             "index": "0",
                             "groupID": "804",
-                            "forceDefaultData": "false",
+                            "forceDefaultData": "true",
                             "elementDatas": [
                                 {
                                     "contentURL": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/FLA2_KeyArt.jpg",
