@@ -2461,10 +2461,10 @@
                                     ],
                                     "extraData": {},
                                     "elementAction": {
-                                        "actionType": "0",
+                                        "actionType": "2",
                                         "appParam": "",
                                         "extraData": {},
-                                        "actionURL": ""
+                                        "actionURL": "self://LiveTV"
                                     },
                                     "textContent": ""
                                 }
