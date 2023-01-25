@@ -2464,7 +2464,7 @@
                                         "actionType": "2",
                                         "appParam": "",
                                         "extraData": {},
-                                        "actionURL": "CONTENTID=53057583"
+                                        "actionURL": "CONTENTID=53057583&CONTENTTYPE=VOD"
                                     },
                                     "textContent": ""
                                 }
@@ -7527,7 +7527,7 @@
             },
             "categoryCode": "H7000",
             "id": "804",
-            "type": "3",
+            "type": "0",
             "index": "4",
             "description": [
                 {
