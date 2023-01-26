@@ -2490,21 +2490,21 @@
                                     "name": [
                                         {
                                             "language": "en",
-                                            "value": "test 3"
+                                            "value": "test 4"
                                         },
                                         {
                                             "language": "zh",
-                                            "value": "test 3"
+                                            "value": "test 4"
                                         }
                                     ],
                                     "description": [
                                         {
                                             "language": "en",
-                                            "value": "dummy 3"
+                                            "value": "dummy 4"
                                         },
                                         {
                                             "language": "zh",
-                                            "value": "dummy 3"
+                                            "value": "dummy 4"
                                         }
                                     ],
                                     "extraData": {},
@@ -2512,7 +2512,7 @@
                                         "actionType": "2",
                                         "appParam": "",
                                         "extraData": {},
-                                        "actionURL": "Self://APP?ContentID=60125941&ContentType=VOD?"
+                                        "actionURL": "Self://APP?ContentID=60125941&ContentType=VOD"
                                     },
                                     "textContent": ""
                                 }
@@ -7272,11 +7272,11 @@
             "name": [
                 {
                     "language": "en",
-                    "value": "Unifi TV Originals nizar test 3"
+                    "value": "Unifi TV Originals nizar test 4"
                 },
                 {
                     "language": "zh",
-                    "value": "Unifi TV Originals nizar test 3"
+                    "value": "Unifi TV Originals nizar test 4"
                 }
             ],
             "controlInfo": {
