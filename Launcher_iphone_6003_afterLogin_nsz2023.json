@@ -7267,12 +7267,12 @@
       "controlInfo": {
         "controlID": "PList",
         "showRefresh": 0,
-        "showMore": 1,
+        "showMore": 0,
         "pageId": 300
       },
       "categoryCode": "H1001",
       "id": "805",
-      "type": "3",
+      "type": "0",
       "index": "5",
       "description": [
         {
