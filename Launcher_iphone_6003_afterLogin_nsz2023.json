@@ -1955,36 +1955,36 @@
               "id": "80300",
               "index": "0",
               "groupID": "803",
-              "forceDefaultData": "false",
+              "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "",
+                  "contentURL": "https://blurzschyter.github.io/ligamlympics/disneyplushotstar.png",
                   "name": [
                     {
                       "language": "en",
-                      "value": "r1"
+                      "value": "Disney+ Hotstar"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "Disney+ Hotstar"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": ""
+                      "value": "Disney+ Hotstar"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "Disney+ Hotstar"
                     }
                   ],
                   "extraData": {},
                   "elementAction": {
-                    "actionType": "0",
+                    "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": ""
+                    "actionURL": "ANDROID=https://www.hotstar.com/my"
                   },
                   "textContent": ""
                 }
@@ -2003,36 +2003,36 @@
               "id": "80301",
               "index": "1",
               "groupID": "803",
-              "forceDefaultData": "false",
+              "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "",
+                  "contentURL": "https://blurzschyter.github.io/ligamlympics/beinsportsconnect.png",
                   "name": [
                     {
                       "language": "en",
-                      "value": "r1"
+                      "value": "beIN SPORTS CONNECT"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "beIN SPORTS CONNECT"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": ""
+                      "value": "beIN SPORTS CONNECT"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "beIN SPORTS CONNECT"
                     }
                   ],
                   "extraData": {},
                   "elementAction": {
-                    "actionType": "0",
+                    "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": ""
+                    "actionURL": "ANDROID=https://connect-my.beinsports.com/en"
                   },
                   "textContent": ""
                 }
@@ -2051,36 +2051,36 @@
               "id": "80302",
               "index": "2",
               "groupID": "803",
-              "forceDefaultData": "false",
+              "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "",
+                  "contentURL": "https://blurzschyter.github.io/ligamlympics/mangotv.png",
                   "name": [
                     {
                       "language": "en",
-                      "value": "r1"
+                      "value": "Mango TV"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "Mango TV"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": ""
+                      "value": "Mango TV"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "Mango TV"
                     }
                   ],
                   "extraData": {},
                   "elementAction": {
-                    "actionType": "0",
+                    "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": ""
+                    "actionURL": "ANDROID=https://www.mgtv.com/"
                   },
                   "textContent": ""
                 }
@@ -2099,36 +2099,36 @@
               "id": "80303",
               "index": "3",
               "groupID": "803",
-              "forceDefaultData": "false",
+              "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "",
+                  "contentURL": "https://blurzschyter.github.io/ligamlympics/viu.png",
                   "name": [
                     {
                       "language": "en",
-                      "value": "r1"
+                      "value": "Viu"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "Viu"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": ""
+                      "value": "Viu"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "Viu"
                     }
                   ],
                   "extraData": {},
                   "elementAction": {
-                    "actionType": "0",
+                    "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": ""
+                    "actionURL": "ANDROID=https://www.viu.com/ott/my/en/all/"
                   },
                   "textContent": ""
                 }
@@ -2147,36 +2147,36 @@
               "id": "80304",
               "index": "4",
               "groupID": "803",
-              "forceDefaultData": "false",
+              "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "",
+                  "contentURL": "https://blurzschyter.github.io/ligamlympics/shemaroome.png",
                   "name": [
                     {
                       "language": "en",
-                      "value": "r1"
+                      "value": "ShemarooMe"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "ShemarooMe"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": ""
+                      "value": "ShemarooMe"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "ShemarooMe"
                     }
                   ],
                   "extraData": {},
                   "elementAction": {
-                    "actionType": "0",
+                    "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": ""
+                    "actionURL": "ANDROID=https://www.shemaroome.com/"
                   },
                   "textContent": ""
                 }
@@ -2195,36 +2195,36 @@
               "id": "80305",
               "index": "5",
               "groupID": "803",
-              "forceDefaultData": "false",
+              "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "",
+                  "contentURL": "https://blurzschyter.github.io/ligamlympics/iqiyi.png",
                   "name": [
                     {
                       "language": "en",
-                      "value": "r1"
+                      "value": "IQIYI"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "IQIYI"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": ""
+                      "value": "IQIYI"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "IQIYI"
                     }
                   ],
                   "extraData": {},
                   "elementAction": {
-                    "actionType": "0",
+                    "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": ""
+                    "actionURL": "ANDROID=https://www.iq.com/?lang=en_us"
                   },
                   "textContent": ""
                 }
@@ -2243,36 +2243,36 @@
               "id": "80306",
               "index": "6",
               "groupID": "803",
-              "forceDefaultData": "false",
+              "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "",
+                  "contentURL": "https://blurzschyter.github.io/ligamlympics/lionsgateplay.png",
                   "name": [
                     {
                       "language": "en",
-                      "value": "r1"
+                      "value": "Lionsgate Play"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "Lionsgate Play"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": ""
+                      "value": "Lionsgate Play"
                     },
                     {
                       "language": "zh",
-                      "value": ""
+                      "value": "Lionsgate Play"
                     }
                   ],
                   "extraData": {},
                   "elementAction": {
-                    "actionType": "0",
+                    "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": ""
+                    "actionURL": "ANDROID=https://lionsgateplay.com/"
                   },
                   "textContent": ""
                 }
@@ -6999,22 +6999,22 @@
       "name": [
         {
           "language": "en",
-          "value": "Snek"
+          "value": "unifi Your World"
         },
         {
           "language": "zh",
-          "value": "Snek"
+          "value": "unifi Your World"
         }
       ],
       "controlInfo": {
-        "controlID": "PList",
+        "controlID": "HCList",
         "showRefresh": 0,
-        "showMore": 1,
+        "showMore": 0,
         "pageId": 300
       },
       "categoryCode": "H4000",
       "id": "803",
-      "type": "1",
+      "type": "0",
       "index": "3",
       "description": [
         {
