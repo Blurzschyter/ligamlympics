@@ -1981,10 +1981,10 @@
                   ],
                   "extraData": {},
                   "elementAction": {
-                    "actionType": "1",
+                    "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "https://www.hotstar.com/my"
+                    "actionURL": "IOS=https://www.hotstar.com/my"
                   },
                   "textContent": ""
                 }
@@ -7009,12 +7009,12 @@
       "controlInfo": {
         "controlID": "HCList",
         "showRefresh": 0,
-        "showMore": 1,
+        "showMore": 0,
         "pageId": 300
       },
       "categoryCode": "H4000",
       "id": "803",
-      "type": "1",
+      "type": "0",
       "index": "3",
       "description": [
         {
