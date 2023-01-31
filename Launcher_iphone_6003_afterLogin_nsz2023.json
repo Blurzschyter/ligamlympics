@@ -1984,7 +1984,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "ANDROID=https://www.hotstar.com/my"
+                    "actionURL": "android=https://www.hotstar.com/my"
                   },
                   "textContent": ""
                 }
@@ -2032,7 +2032,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "ANDROID=https://connect-my.beinsports.com/en"
+                    "actionURL": "android=https://connect-my.beinsports.com/en"
                   },
                   "textContent": ""
                 }
@@ -2080,7 +2080,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "ANDROID=https://www.mgtv.com/"
+                    "actionURL": "android=https://www.mgtv.com/"
                   },
                   "textContent": ""
                 }
@@ -2128,7 +2128,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "ANDROID=https://www.viu.com/ott/my/en/all/"
+                    "actionURL": "android=https://www.viu.com/ott/my/en/all/"
                   },
                   "textContent": ""
                 }
@@ -2176,7 +2176,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "ANDROID=https://www.shemaroome.com/"
+                    "actionURL": "android=https://www.shemaroome.com/"
                   },
                   "textContent": ""
                 }
@@ -2224,7 +2224,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "ANDROID=https://www.iq.com/?lang=en_us"
+                    "actionURL": "android=https://www.iq.com/?lang=en_us"
                   },
                   "textContent": ""
                 }
@@ -2272,7 +2272,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "ANDROID=https://lionsgateplay.com/"
+                    "actionURL": "android=https://lionsgateplay.com/"
                   },
                   "textContent": ""
                 }
