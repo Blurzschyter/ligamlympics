@@ -38,35 +38,35 @@
               "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "https://unifi.com.my/tv/sites/default/files/2023-01/poong2-1920x810_0.jpg",
+                  "contentURL": "https://blurzschyter.github.io/ligamlympics/promo-ultimatepack.jpg",
                   "name": [
                     {
                       "language": "en",
-                      "value": "Back in business!"
+                      "value": "Ultimate Pack"
                     },
                     {
                       "language": "zh",
-                      "value": "Back in business!"
+                      "value": "Ultimate Pack"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "Back in business!"
+                      "value": ""
                     },
                     {
                       "language": "zh",
-                      "value": "Back in business!"
+                      "value": ""
                     }
                   ],
                   "extraData": {},
                   "elementAction": {
-                    "actionType": "0",
+                    "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": ""
+                    "actionURL": "IOS=https://unifi.com.my/tv/plans/ultimate-pack"
                   },
-                  "textContent": "Yoo Se-poong (Kim Min-jae) and the crew of the Gyesu Clinic are back and operating from their new branch in Hanyang. Also available to stream on Unifi TV app."
+                  "textContent": ""
                 }
               ],
               "top": "0",
