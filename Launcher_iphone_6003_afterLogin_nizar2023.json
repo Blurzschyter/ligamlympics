@@ -512,6 +512,198 @@
               "defaultFocus": "false"
             },
             {
+              "id": "80010",
+              "index": "10",
+              "groupID": "800",
+              "forceDefaultData": "true",
+              "elementDatas": [
+                {
+                  "contentURL": "https://blurzschyter.github.io/ligamlympics/promo-tvnmovies.jpg",
+                  "name": [
+                    {
+                      "language": "en",
+                      "value": "Watch Now!"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Watch Now!"
+                    }
+                  ],
+                  "description": [
+                    {
+                      "language": "en",
+                      "value": "Watch Now!"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Watch Now!"
+                    }
+                  ],
+                  "extraData": {},
+                  "elementAction": {
+                    "actionType": "2",
+                    "appParam": "",
+                    "extraData": {},
+                    "actionURL": "CONTENTID=20000021&CONTENTTYPE=CHANNEL"
+                  },
+                  "textContent": ""
+                }
+              ],
+              "top": "0",
+              "left": "0",
+              "width": "0",
+              "height": "23",
+              "type": "1",
+              "autoPlay": "false",
+              "canFocus": "true",
+              "controlType": "0",
+              "defaultFocus": "false"
+            },
+            {
+              "id": "80011",
+              "index": "11",
+              "groupID": "800",
+              "forceDefaultData": "true",
+              "elementDatas": [
+                {
+                  "contentURL": "https://blurzschyter.github.io/ligamlympics/promo-vod-blackadam.jpg",
+                  "name": [
+                    {
+                      "language": "en",
+                      "value": "Watch Now!"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Watch Now!"
+                    }
+                  ],
+                  "description": [
+                    {
+                      "language": "en",
+                      "value": "Watch Now!"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Watch Now!"
+                    }
+                  ],
+                  "extraData": {},
+                  "elementAction": {
+                    "actionType": "2",
+                    "appParam": "",
+                    "extraData": {},
+                    "actionURL": "CONTENTID=60125941&CONTENTTYPE=VOD"
+                  },
+                  "textContent": ""
+                }
+              ],
+              "top": "0",
+              "left": "0",
+              "width": "0",
+              "height": "23",
+              "type": "1",
+              "autoPlay": "false",
+              "canFocus": "true",
+              "controlType": "0",
+              "defaultFocus": "false"
+            },
+            {
+              "id": "80012",
+              "index": "12",
+              "groupID": "800",
+              "forceDefaultData": "true",
+              "elementDatas": [
+                {
+                  "contentURL": "https://blurzschyter.github.io/ligamlympics/promo-rockaction.jpg",
+                  "name": [
+                    {
+                      "language": "en",
+                      "value": "Watch Now!"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Watch Now!"
+                    }
+                  ],
+                  "description": [
+                    {
+                      "language": "en",
+                      "value": "Watch Now!"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Watch Now!"
+                    }
+                  ],
+                  "extraData": {},
+                  "elementAction": {
+                    "actionType": "2",
+                    "appParam": "",
+                    "extraData": {},
+                    "actionURL": "CONTENTID=20000081&CONTENTTYPE=CHANNEL"
+                  },
+                  "textContent": ""
+                }
+              ],
+              "top": "0",
+              "left": "0",
+              "width": "0",
+              "height": "23",
+              "type": "1",
+              "autoPlay": "false",
+              "canFocus": "true",
+              "controlType": "0",
+              "defaultFocus": "false"
+            },
+            {
+              "id": "80013",
+              "index": "13",
+              "groupID": "800",
+              "forceDefaultData": "true",
+              "elementDatas": [
+                {
+                  "contentURL": "https://blurzschyter.github.io/ligamlympics/promo-degup.jpg",
+                  "name": [
+                    {
+                      "language": "en",
+                      "value": "Watch Now!"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Watch Now!"
+                    }
+                  ],
+                  "description": [
+                    {
+                      "language": "en",
+                      "value": "Watch Now!"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Watch Now!"
+                    }
+                  ],
+                  "extraData": {},
+                  "elementAction": {
+                    "actionType": "2",
+                    "appParam": "",
+                    "extraData": {},
+                    "actionURL": "CONTENTID=55631601&CONTENTTYPE=CHANNEL"
+                  },
+                  "textContent": ""
+                }
+              ],
+              "top": "0",
+              "left": "0",
+              "width": "0",
+              "height": "23",
+              "type": "1",
+              "autoPlay": "false",
+              "canFocus": "true",
+              "controlType": "0",
+              "defaultFocus": "false"
+            },
+            {
               "id": "80100",
               "index": "0",
               "groupID": "801",
