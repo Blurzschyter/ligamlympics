@@ -304,7 +304,7 @@
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "CONTENTID=51880949&CONTENTTYPE=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=51880949&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -352,7 +352,7 @@
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "CONTENTID=20000055&CONTENTTYPE=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=20000055&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -400,7 +400,7 @@
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "CONTENTID=51882374&CONTENTTYPE=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=51882374&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -448,7 +448,7 @@
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "CONTENTID=20000062&CONTENTTYPE=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=20000062&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -496,7 +496,7 @@
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "CONTENTID=57622558&CONTENTTYPE=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=57622558&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -640,7 +640,7 @@
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "CONTENTID=20000081&CONTENTTYPE=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=20000081&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -688,7 +688,7 @@
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "CONTENTID=55631601&CONTENTTYPE=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=55631601&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
