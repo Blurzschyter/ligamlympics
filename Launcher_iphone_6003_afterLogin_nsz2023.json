@@ -544,7 +544,7 @@
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "CONTENTID=20000021&CONTENTTYPE=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=20000021&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -592,7 +592,7 @@
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "CONTENTID=60125941&CONTENTTYPE=VOD"
+                    "actionURL": "Self://APP?ContentID=60125941&ContentType=VOD"
                   },
                   "textContent": ""
                 }
