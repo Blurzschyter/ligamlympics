@@ -1,0 +1,139 @@
+{
+  "GUEST": {},
+  "IPTV": {
+    "CatchUpParentSubjectID": "UW2000",
+    "CatchUpExcludeSubjectID": [
+      {
+        "subjectID": "UW2100",
+        "description": "Must Watch"
+      },
+      {
+        "subjectID": "UW2002",
+        "description": "INFO"
+      }
+    ],
+    "AllChannelSubjectID": "PU6000",
+    "AllChannelExcludeSubjectID": [
+      {
+        "subjectID": "PU6044",
+        "description": "Free Channel"
+      }
+    ],
+    "mainPageRows": [
+      {
+        "subjectID": "UW2100",
+        "description": "Must Watch"
+      },
+      {
+        "subjectID": "UW2005",
+        "description": "Movies"
+      },
+      {
+        "subjectID": "UW2001",
+        "description": "International Variety"
+      },
+      {
+        "subjectID": "UW2009",
+        "description": "Malaysian Variety"
+      },
+      {
+        "subjectID": "UW2011",
+        "description": "Chinese Variety"
+      },
+      {
+        "subjectID": "UW2004",
+        "description": "Lifestyle & Knowledge"
+      },
+      {
+        "subjectID": "UW2003",
+        "description": "Kids"
+      },
+      {
+        "subjectID": "UW2008",
+        "description": "Sports"
+      }
+    ],
+    "channelMapping": {
+      "UW2005": [
+        {
+          "subjectID": "PU6002",
+          "description": "Dunia Sinema"
+        },
+        {
+          "subjectID": "PU6024",
+          "description": "tvN Movies"
+        },
+        {
+          "subjectID": "PU6053",
+          "description": "Celestial Movies"
+        },
+        {
+          "subjectID": "PU6054",
+          "description": "CCM"
+        },
+        {
+          "subjectID": "PU6064",
+          "description": "Colors Cineplex"
+        },
+        {
+          "subjectID": "PU6052",
+          "description": "HITS Movies"
+        },
+        {
+          "subjectID": "PU6004",
+          "description": "CinemaWorld"
+        },
+        {
+          "subjectID": "PU6067",
+          "description": "SIAR"
+        }
+      ],
+      "UW2008": [
+        {
+          "subjectID": "PU6046",
+          "description": "unifi Sports"
+        },
+        {
+          "subjectID": "PU6059",
+          "description": "SPOTV"
+        },
+        {
+          "subjectID": "PU6060",
+          "description": "beIN Sports"
+        }
+      ],
+      "UW2003": [
+        {
+          "subjectID": "PU6066",
+          "description": "Sony YAY!"
+        },
+        {
+          "subjectID": "PU6006",
+          "description": "DreamWorks"
+        },
+        {
+          "subjectID": "PU6010",
+          "description": "Nick Jr."
+        },
+        {
+          "subjectID": "PU6025",
+          "description": "CBeebies"
+        },
+        {
+          "subjectID": "PU6039",
+          "description": "Nickelodeon"
+        },
+        {
+          "subjectID": "PU6003",
+          "description": "Boomerang"
+        },
+        {
+          "subjectID": "PU6068",
+          "description": "Moonbug"
+        }
+      ]
+    }
+  },
+  "TVOS": {},
+  "HESA": {}
+}
