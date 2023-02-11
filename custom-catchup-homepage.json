@@ -65,7 +65,7 @@
         "description": "Sports"
       }
     ],
-    "channelMapping": [
+    "channelMappingDict": [
       {
         "subjectID": "UW2005",
         "description": "Movies",
@@ -401,7 +401,7 @@
         "description": "Sports"
       }
     ],
-    "channelMapping": [
+    "channelMappingDict": [
       {
         "subjectID": "SW2002",
         "description": "Movies",
@@ -737,7 +737,7 @@
         "description": "Sports"
       }
     ],
-    "channelMapping": [
+    "channelMappingDict": [
       {
         "subjectID": "H2005",
         "description": "Movies",
@@ -1003,7 +1003,7 @@
         "description": "Sports"
       }
     ],
-    "channelMapping": [
+    "channelMappingDict": [
       {
         "subjectID": "G2005",
         "description": "Movies",
