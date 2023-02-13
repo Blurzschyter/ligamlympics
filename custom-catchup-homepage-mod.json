@@ -36,7 +36,7 @@
       },
       {
         "index": 4,
-        "subjectID": "UW2001",
+        "subjectID": "UW200199",
         "description": "International Variety"
       },
       {
@@ -48,6 +48,21 @@
         "index": 6,
         "subjectID": "UW2011",
         "description": "Chinese Variety"
+      },
+      {
+        "index": 7,
+        "subjectID": "UW2004",
+        "description": "Lifestyle & Knowledge"
+      },
+      {
+        "index": 8,
+        "subjectID": "UW2003",
+        "description": "Kids"
+      },
+      {
+        "index": 9,
+        "subjectID": "UW2008",
+        "description": "Sports"
       }
     ],
     "channelMappingDict": [
