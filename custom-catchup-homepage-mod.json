@@ -43,6 +43,11 @@
         "index": 5,
         "subjectID": "UW2009",
         "description": "Malaysian Variety"
+      },
+      {
+        "index": 6,
+        "subjectID": "UW2011",
+        "description": "Chinese Variety"
       }
     ],
     "channelMappingDict": [
