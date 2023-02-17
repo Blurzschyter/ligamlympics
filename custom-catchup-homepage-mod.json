@@ -72,8 +72,8 @@
         "channelMapping": [
           {
             "index": 1,
-            "subjectID": "PU6067",
-            "description": "SIAR"
+            "subjectID": "PU6067zx",
+            "description": "SIARzx"
           },
           {
             "index": 2,
@@ -272,8 +272,8 @@
         ]
       },
       {
-        "subjectID": "UW2003",
-        "description": "Kids",
+        "subjectID": "UW2003zx",
+        "description": "Kidszx",
         "channelMapping": [
           {
             "index": 1,
