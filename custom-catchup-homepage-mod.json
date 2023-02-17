@@ -1,6 +1,6 @@
 {
   "IPTV": {
-    "CatchUpParentSubjectID": "UW2000xx",
+    "CatchUpParentSubjectID": "UW2000",
     "CatchUpExcludeSubjectID": [
       {
         "subjectID": "UW2100",
