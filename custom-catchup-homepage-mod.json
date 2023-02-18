@@ -336,7 +336,7 @@
     ]
   },
   "TVOS": {
-    "CatchUpParentSubjectID": "SW2000",
+    "CatchUpParentSubjectID": "SW2000xx",
     "CatchUpExcludeSubjectID": [
       {
         "subjectID": "SW2100",
