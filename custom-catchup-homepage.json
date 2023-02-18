@@ -367,7 +367,7 @@
       },
       {
         "index": 3,
-        "subjectID": "SW2002",
+        "subjectID": "SW2005",
         "description": "Movies"
       },
       {
@@ -403,7 +403,7 @@
     ],
     "channelMappingDict": [
       {
-        "subjectID": "SW2002",
+        "subjectID": "SW2005",
         "description": "Movies",
         "channelMapping": [
           {
