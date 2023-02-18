@@ -11,7 +11,7 @@
         "description": "INFO"
       }
     ],
-    "AllChannelSubjectID": "PU6000",
+    "AllChannelSubjectID": "PU6000xx",
     "AllChannelExcludeSubjectID": [
       {
         "subjectID": "PU6044",
