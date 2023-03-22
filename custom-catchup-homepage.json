@@ -14,7 +14,7 @@
     "AllChannelSubjectID": "PU6000",
     "AllChannelExcludeSubjectID": [
       {
-        "subjectID": "PU6044",
+        "subjectID": "PU6044x",
         "description": "Free Channel"
       }
     ],
@@ -350,7 +350,7 @@
     "AllChannelSubjectID": "PS6000",
     "AllChannelExcludeSubjectID": [
       {
-        "subjectID": "PS6044",
+        "subjectID": "PS6044x",
         "description": "Free Channel"
       }
     ],
@@ -686,7 +686,7 @@
     "AllChannelSubjectID": "PH6000",
     "AllChannelExcludeSubjectID": [
       {
-        "subjectID": "PH6044",
+        "subjectID": "PH6044x",
         "description": "Free Channel"
       }
     ],
@@ -952,7 +952,7 @@
     "AllChannelSubjectID": "G6000",
     "AllChannelExcludeSubjectID": [
       {
-        "subjectID": "G6044",
+        "subjectID": "G6044x",
         "description": "Free Channel"
       }
     ],
@@ -1218,7 +1218,7 @@
     "AllChannelSubjectID": "PU6000",
     "AllChannelExcludeSubjectID": [
       {
-        "subjectID": "PU6044",
+        "subjectID": "PU6044x",
         "description": "Free Channel"
       }
     ],
@@ -1554,7 +1554,7 @@
     "AllChannelSubjectID": "PS6000",
     "AllChannelExcludeSubjectID": [
       {
-        "subjectID": "PS6044",
+        "subjectID": "PS6044x",
         "description": "Free Channel"
       }
     ],
