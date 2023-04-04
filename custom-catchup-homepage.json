@@ -919,11 +919,6 @@
             "index": 6,
             "subjectID": "to-be-confirmed",
             "description": "Miao Mi"
-          },
-          {
-            "index": 7,
-            "subjectID": "PH6066",
-            "description": "Sony YAY!"
           }
         ]
       },
@@ -1120,7 +1115,7 @@
     "AllChannelSubjectID": "PG6000",
     "AllChannelExcludeSubjectID": [
       {
-        "subjectID": "to-be-confirmed",
+        "subjectID": "PG6044",
         "description": "Free Channel"
       }
     ],
@@ -1183,47 +1178,47 @@
         "channelMapping": [
           {
             "index": 1,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6067",
             "description": "SIAR"
           },
           {
             "index": 2,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6002",
             "description": "Dunia Sinema"
           },
           {
             "index": 3,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6024",
             "description": "tvN Movies"
           },
           {
             "index": 4,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6053",
             "description": "Celestial Movies"
           },
           {
             "index": 5,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6054",
             "description": "CCM"
           },
           {
             "index": 6,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6052",
             "description": "HITS Movies"
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6017",
             "description": "ROCK Action"
           },
           {
             "index": 8,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6004",
             "description": "CinemaWorld"
           },
           {
             "index": 9,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6064",
             "description": "Colors Cineplex"
           }
         ]
@@ -1234,32 +1229,32 @@
         "channelMapping": [
           {
             "index": 1,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6068",
             "description": "Moonbug"
           },
           {
             "index": 2,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6006",
             "description": "DreamWorks"
           },
           {
             "index": 3,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6010",
             "description": "Nick Jr."
           },
           {
             "index": 4,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6025",
             "description": "CBeebies"
           },
           {
             "index": 5,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6039",
             "description": "Nickelodeon"
           },
           {
             "index": 6,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6003",
             "description": "Boomerang"
           },
           {
@@ -1269,7 +1264,7 @@
           },
           {
             "index": 8,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6066",
             "description": "Sony YAY!"
           }
         ]
@@ -1280,17 +1275,17 @@
         "channelMapping": [
           {
             "index": 1,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6046",
             "description": "Unifi Sports"
           },
           {
             "index": 2,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6059",
             "description": "SPOTV"
           },
           {
             "index": 3,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6060",
             "description": "beIN Sports"
           }
         ]
@@ -1301,27 +1296,27 @@
         "channelMapping": [
           {
             "index": 1,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6026",
             "description": "BBC Lifestyle"
           },
           {
             "index": 2,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6023",
             "description": "Travel Channel"
           },
           {
             "index": 3,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6027",
             "description": "BBC Earth"
           },
           {
             "index": 4,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6045",
             "description": "Love Nature"
           },
           {
             "index": 5,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6040",
             "description": "CNA"
           },
           {
@@ -1336,7 +1331,7 @@
           },
           {
             "index": 8,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6063",
             "description": "CGTN"
           }
         ]
@@ -1347,27 +1342,27 @@
         "channelMapping": [
           {
             "index": 1,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6053",
             "description": "Celestial Movies"
           },
           {
             "index": 2,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6054",
             "description": "CCM"
           },
           {
             "index": 3,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6012",
             "description": "now Jelli"
           },
           {
             "index": 4,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6020",
             "description": "SETI"
           },
           {
             "index": 5,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6062",
             "description": "CCTV-4"
           }
         ]
@@ -1378,37 +1373,37 @@
         "channelMapping": [
           {
             "index": 1,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6061",
             "description": "Degup"
           },
           {
             "index": 2,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6067",
             "description": "SIAR"
           },
           {
             "index": 3,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6002",
             "description": "Dunia Sinema"
           },
           {
             "index": 4,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6007",
             "description": "Sensasi"
           },
           {
             "index": 5,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6008",
             "description": "Inspirasi"
           },
           {
             "index": 6,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6001",
             "description": "Salam HD"
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6013",
             "description": "Pesona"
           }
         ]
@@ -1419,37 +1414,37 @@
         "channelMapping": [
           {
             "index": 1,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6028",
             "description": "Warner TV"
           },
           {
             "index": 2,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6056",
             "description": "AXN"
           },
           {
             "index": 3,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6041",
             "description": "Paramount Network"
           },
           {
             "index": 4,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6016",
             "description": "ROCK Entertainment"
           },
           {
             "index": 5,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6051",
             "description": "HITS"
           },
           {
             "index": 6,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6032",
             "description": "MTV Live"
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6065",
             "description": "Colors Tamil"
           }
         ]
@@ -1460,32 +1455,32 @@
         "channelMapping": [
           {
             "index": 1,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6029",
             "description": "tvN"
           },
           {
             "index": 2,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6024",
             "description": "tvN Movies"
           },
           {
             "index": 3,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6069",
             "description": "ONE"
           },
           {
             "index": 4,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6055",
             "description": "K-Plus"
           },
           {
             "index": 5,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6057",
             "description": "GEM"
           },
           {
             "index": 6,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6030",
             "description": "Animax"
           },
           {
