@@ -2176,7 +2176,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "android=in.startv.hotstar.dplus"
+                    "actionURL": "android=http://www.hotstar.com"
                   },
                   "textContent": ""
                 }
@@ -2224,7 +2224,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "android=com.beinsports.connect.apac"
+                    "actionURL": "android=https://connect-my.beinsports.com"
                   },
                   "textContent": ""
                 }
@@ -2272,7 +2272,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "android=com.hunantv.imgo.activity.inter"
+                    "actionURL": "android=https://w.mgtv.com"
                   },
                   "textContent": ""
                 }
@@ -2320,7 +2320,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "android=com.vuclip.viu"
+                    "actionURL": "android=https://viu.app.link/"
                   },
                   "textContent": ""
                 }
@@ -2368,7 +2368,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "android=com.saranyu.shemarooworld"
+                    "actionURL": "android=https://www.shemaroome.com"
                   },
                   "textContent": ""
                 }
@@ -2416,7 +2416,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "android=com.iqiyi.i18n"
+                    "actionURL": "android=https://www.iq.com"
                   },
                   "textContent": ""
                 }
@@ -2464,7 +2464,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "android=com.lionsgateplay.videoapp"
+                    "actionURL": "android=https://lionsgateplay.com"
                   },
                   "textContent": ""
                 }
