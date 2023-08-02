@@ -8,7 +8,7 @@
       },
       {
         "subjectID": "UW2002",
-        "description": "INFO"
+        "description": "Info"
       }
     ],
     "AllChannelSubjectID": "PU6000",
@@ -158,7 +158,7 @@
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PU6073",
             "description": "Miao Mi"
           },
           {
@@ -220,18 +220,18 @@
           },
           {
             "index": 6,
-            "subjectID": "to-be-confirmed",
-            "description": "Smithsonian"
+            "subjectID": "PU6063",
+            "description": "CGTN"
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
-            "description": "DW"
+            "subjectID": "PU6074",
+            "description": "Smithsonian"
           },
           {
             "index": 8,
-            "subjectID": "PU6063",
-            "description": "CGTN"
+            "subjectID": "PU6075",
+            "description": "DW"
           }
         ]
       },
@@ -384,7 +384,7 @@
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PU6072",
             "description": "Aniplus"
           }
         ]
@@ -400,7 +400,7 @@
       },
       {
         "subjectID": "SW2002",
-        "description": "INFO"
+        "description": "Info"
       }
     ],
     "AllChannelSubjectID": "PS6000",
@@ -550,7 +550,7 @@
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PS6073",
             "description": "Miao Mi"
           },
           {
@@ -612,18 +612,18 @@
           },
           {
             "index": 6,
-            "subjectID": "to-be-confirmed",
-            "description": "Smithsonian"
+            "subjectID": "PS6065",
+            "description": "CGTN"
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
-            "description": "DW"
+            "subjectID": "PS6074",
+            "description": "Smithsonian"
           },
           {
             "index": 8,
-            "subjectID": "PS6065",
-            "description": "CGTN"
+            "subjectID": "PS6075",
+            "description": "DW"
           }
         ]
       },
@@ -776,7 +776,7 @@
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PS6072",
             "description": "Aniplus"
           }
         ]
@@ -792,7 +792,7 @@
       },
       {
         "subjectID": "H2002",
-        "description": "INFO"
+        "description": "Info"
       }
     ],
     "AllChannelSubjectID": "PH6000",
@@ -810,12 +810,12 @@
       },
       {
         "index": 2,
-        "subjectID": "SW2005",
+        "subjectID": "H2005",
         "description": "Movies"
       },
       {
         "index": 3,
-        "subjectID": "H2005",
+        "subjectID": "H2003",
         "description": "Kids"
       },
       {
@@ -871,12 +871,12 @@
           },
           {
             "index": 3,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PH6053",
             "description": "Celestial Movies"
           },
           {
             "index": 4,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PH6054",
             "description": "CCM"
           },
           {
@@ -964,18 +964,18 @@
           },
           {
             "index": 5,
-            "subjectID": "to-be-confirmed",
-            "description": "Smithsonian"
+            "subjectID": "PH6063",
+            "description": "CGTN"
           },
           {
             "index": 6,
-            "subjectID": "to-be-confirmed",
-            "description": "DW"
+            "subjectID": "PH6074",
+            "description": "Smithsonian"
           },
           {
             "index": 7,
-            "subjectID": "PH6063",
-            "description": "CGTN"
+            "subjectID": "PH6075",
+            "description": "DW"
           }
         ]
       },
@@ -985,12 +985,12 @@
         "channelMapping": [
           {
             "index": 1,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PH6053",
             "description": "Celestial Movies"
           },
           {
             "index": 2,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PH6054",
             "description": "CCM"
           },
           {
@@ -1047,7 +1047,7 @@
         "channelMapping": [
           {
             "index": 1,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PH6056",
             "description": "AXN"
           },
           {
@@ -1088,12 +1088,12 @@
           },
           {
             "index": 4,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PH6057",
             "description": "GEM"
           },
           {
             "index": 5,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PH6030",
             "description": "Animax"
           }
         ]
@@ -1109,7 +1109,7 @@
       },
       {
         "subjectID": "G2002",
-        "description": "INFO"
+        "description": "Info"
       }
     ],
     "AllChannelSubjectID": "PG6000",
@@ -1259,7 +1259,7 @@
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6073",
             "description": "Miao Mi"
           },
           {
@@ -1321,18 +1321,18 @@
           },
           {
             "index": 6,
-            "subjectID": "to-be-confirmed",
-            "description": "Smithsonian"
+            "subjectID": "PG6063",
+            "description": "CGTN"
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
-            "description": "DW"
+            "subjectID": "PG6074",
+            "description": "Smithsonian"
           },
           {
             "index": 8,
-            "subjectID": "PG6063",
-            "description": "CGTN"
+            "subjectID": "PG6075",
+            "description": "DW"
           }
         ]
       },
@@ -1485,7 +1485,7 @@
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PG6072",
             "description": "Aniplus"
           }
         ]
@@ -1496,8 +1496,12 @@
     "CatchUpParentSubjectID": "U2000",
     "CatchUpExcludeSubjectID": [
       {
+        "subjectID": "U3100",
+        "description": "Must Watch"
+      },
+      {
         "subjectID": "U2002",
-        "description": "INFO"
+        "description": "Info"
       }
     ],
     "AllChannelSubjectID": "PU6000",
@@ -1647,7 +1651,7 @@
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PU6073",
             "description": "Miao Mi"
           },
           {
@@ -1709,18 +1713,18 @@
           },
           {
             "index": 6,
-            "subjectID": "to-be-confirmed",
-            "description": "Smithsonian"
+            "subjectID": "PU6063",
+            "description": "CGTN"
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
-            "description": "DW"
+            "subjectID": "PU6074",
+            "description": "Smithsonian"
           },
           {
             "index": 8,
-            "subjectID": "PU6063",
-            "description": "CGTN"
+            "subjectID": "PU6075",
+            "description": "DW"
           }
         ]
       },
@@ -1873,7 +1877,7 @@
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PU6072",
             "description": "Aniplus"
           }
         ]
@@ -1884,8 +1888,12 @@
     "CatchUpParentSubjectID": "S2000",
     "CatchUpExcludeSubjectID": [
       {
+        "subjectID": "S3100",
+        "description": "Must Watch"
+      },
+      {
         "subjectID": "S2002",
-        "description": "INFO"
+        "description": "Info"
       }
     ],
     "AllChannelSubjectID": "PS6000",
@@ -2035,7 +2043,7 @@
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PS6073",
             "description": "Miao Mi"
           },
           {
@@ -2097,18 +2105,18 @@
           },
           {
             "index": 6,
-            "subjectID": "to-be-confirmed",
-            "description": "Smithsonian"
+            "subjectID": "PS6065",
+            "description": "CGTN"
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
-            "description": "DW"
+            "subjectID": "PS6074",
+            "description": "Smithsonian"
           },
           {
             "index": 8,
-            "subjectID": "PS6065",
-            "description": "CGTN"
+            "subjectID": "PS6075",
+            "description": "DW"
           }
         ]
       },
@@ -2261,7 +2269,7 @@
           },
           {
             "index": 7,
-            "subjectID": "to-be-confirmed",
+            "subjectID": "PS6072",
             "description": "Aniplus"
           }
         ]
