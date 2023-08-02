@@ -232,6 +232,16 @@
             "index": 8,
             "subjectID": "PU6075",
             "description": "DW"
+          },
+          {
+            "index": 9,
+            "subjectID": "PU6018",
+            "description": "BBC News"
+          },
+          {
+            "index": 10,
+            "subjectID": "PU6019",
+            "description": "Euronews"
           }
         ]
       },
@@ -624,6 +634,16 @@
             "index": 8,
             "subjectID": "PS6075",
             "description": "DW"
+          },
+          {
+            "index": 9,
+            "subjectID": "PS6018",
+            "description": "BBC News"
+          },
+          {
+            "index": 10,
+            "subjectID": "PS6019",
+            "description": "Euronews"
           }
         ]
       },
@@ -1333,6 +1353,16 @@
             "index": 8,
             "subjectID": "PG6075",
             "description": "DW"
+          },
+          {
+            "index": 9,
+            "subjectID": "PG6018",
+            "description": "BBC News"
+          },
+          {
+            "index": 10,
+            "subjectID": "PG6019",
+            "description": "Euronews"
           }
         ]
       },
@@ -1725,6 +1755,16 @@
             "index": 8,
             "subjectID": "PU6075",
             "description": "DW"
+          },
+          {
+            "index": 9,
+            "subjectID": "PU6018",
+            "description": "BBC News"
+          },
+          {
+            "index": 10,
+            "subjectID": "PU6019",
+            "description": "Euronews"
           }
         ]
       },
@@ -2117,6 +2157,16 @@
             "index": 8,
             "subjectID": "PS6075",
             "description": "DW"
+          },
+          {
+            "index": 9,
+            "subjectID": "PS6018",
+            "description": "BBC News"
+          },
+          {
+            "index": 10,
+            "subjectID": "PS6019",
+            "description": "Euronews"
           }
         ]
       },
