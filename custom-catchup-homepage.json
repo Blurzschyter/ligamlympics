@@ -1130,6 +1130,10 @@
       {
         "subjectID": "G2002",
         "description": "Info"
+      },
+      {
+        "subjectID": "G5002",
+        "description": "New This Week"
       }
     ],
     "AllChannelSubjectID": "PG6000",
@@ -1137,10 +1141,6 @@
       {
         "subjectID": "PG6044",
         "description": "Free Channel"
-      },
-      {
-        "subjectID": "G5002",
-        "description": "New This Week"
       }
     ],
     "mainPageRows": [
