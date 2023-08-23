@@ -11,8 +11,8 @@
         "description": "Info"
       },
       {
-        "subjectID": "UW5002",
-        "description": "New This Week"
+        "subjectID": "UW5003",
+        "description": "New Rail test"
       }
     ],
     "AllChannelSubjectID": "PU6000",
@@ -25,8 +25,8 @@
     "mainPageRows": [
       {
         "index": 0,
-        "subjectID": "UW5002",
-        "description": "New This Week"
+        "subjectID": "UW5003",
+        "description": "New Rail test"
       },
       {
         "index": 1,
