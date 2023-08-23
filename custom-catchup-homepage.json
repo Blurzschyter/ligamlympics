@@ -9,6 +9,10 @@
       {
         "subjectID": "UW2002",
         "description": "Info"
+      },
+      {
+        "subjectID": "UW5002",
+        "description": "New This Week"
       }
     ],
     "AllChannelSubjectID": "PU6000",
@@ -19,6 +23,11 @@
       }
     ],
     "mainPageRows": [
+      {
+        "index": 0,
+        "subjectID": "UW5002",
+        "description": "New This Week"
+      },
       {
         "index": 1,
         "subjectID": "UW2100",
@@ -411,6 +420,10 @@
       {
         "subjectID": "SW2002",
         "description": "Info"
+      },
+      {
+        "subjectID": "SW5002",
+        "description": "New This Week"
       }
     ],
     "AllChannelSubjectID": "PS6000",
@@ -421,6 +434,11 @@
       }
     ],
     "mainPageRows": [
+      {
+        "index": 0,
+        "subjectID": "SW5002",
+        "description": "New This Week"
+      },
       {
         "index": 1,
         "subjectID": "SW2100",
@@ -813,6 +831,10 @@
       {
         "subjectID": "H2002",
         "description": "Info"
+      },
+      {
+        "subjectID": "H5002",
+        "description": "New This Week"
       }
     ],
     "AllChannelSubjectID": "PH6000",
@@ -823,6 +845,11 @@
       }
     ],
     "mainPageRows": [
+      {
+        "index": 0,
+        "subjectID": "H5002",
+        "description": "New This Week"
+      },
       {
         "index": 1,
         "subjectID": "H2100",
@@ -1541,6 +1568,10 @@
       {
         "subjectID": "U2002",
         "description": "Info"
+      },
+      {
+        "subjectID": "UW5002",
+        "description": "New This Week"
       }
     ],
     "AllChannelSubjectID": "PU6000",
@@ -1551,6 +1582,11 @@
       }
     ],
     "mainPageRows": [
+      {
+        "index": 0,
+        "subjectID": "UW5002",
+        "description": "New This Week"
+      },
       {
         "index": 1,
         "subjectID": "U3100",
@@ -1943,6 +1979,10 @@
       {
         "subjectID": "S2002",
         "description": "Info"
+      },
+      {
+        "subjectID": "SW5002",
+        "description": "New This Week"
       }
     ],
     "AllChannelSubjectID": "PS6000",
@@ -1953,6 +1993,11 @@
       }
     ],
     "mainPageRows": [
+      {
+        "index": 0,
+        "subjectID": "SW5002",
+        "description": "New This Week"
+      },
       {
         "index": 1,
         "subjectID": "S3100",
