@@ -11,8 +11,8 @@
         "description": "Info"
       },
       {
-        "subjectID": "UW5003",
-        "description": "New Rail test"
+        "subjectID": "UW2006",
+        "description": "New Rail sub category CUOD "
       }
     ],
     "AllChannelSubjectID": "PU6000",
@@ -25,8 +25,8 @@
     "mainPageRows": [
       {
         "index": 0,
-        "subjectID": "UW5003",
-        "description": "New Rail test"
+        "subjectID": "UW2006",
+        "description": "New Rail sub category CUOD "
       },
       {
         "index": 1,
