@@ -422,8 +422,8 @@
         "description": "Info"
       },
       {
-        "subjectID": "SW5002",
-        "description": "New This Week"
+        "subjectID": "SW2006",
+        "description": "Running Man Special"
       }
     ],
     "AllChannelSubjectID": "PS6000",
@@ -436,8 +436,8 @@
     "mainPageRows": [
       {
         "index": 0,
-        "subjectID": "SW5002",
-        "description": "New This Week"
+        "subjectID": "SW2006",
+        "description": "Running Man Special"
       },
       {
         "index": 1,
@@ -833,8 +833,8 @@
         "description": "Info"
       },
       {
-        "subjectID": "H5002",
-        "description": "New This Week"
+        "subjectID": "H2006",
+        "description": "Running Man Special"
       }
     ],
     "AllChannelSubjectID": "PH6000",
@@ -847,8 +847,8 @@
     "mainPageRows": [
       {
         "index": 0,
-        "subjectID": "H5002",
-        "description": "New This Week"
+        "subjectID": "H2006",
+        "description": "Running Man Special"
       },
       {
         "index": 1,
@@ -1159,8 +1159,8 @@
         "description": "Info"
       },
       {
-        "subjectID": "G5002",
-        "description": "New This Week"
+        "subjectID": "G2006",
+        "description": "Running Man Special"
       }
     ],
     "AllChannelSubjectID": "PG6000",
@@ -1173,8 +1173,8 @@
     "mainPageRows": [
       {
         "index": 0,
-        "subjectID": "G5002",
-        "description": "New This Week"
+        "subjectID": "G2006",
+        "description": "Running Man Special"
       },
       {
         "index": 1,
@@ -1570,8 +1570,8 @@
         "description": "Info"
       },
       {
-        "subjectID": "UW5002",
-        "description": "New This Week"
+        "subjectID": "U2006",
+        "description": "Running Man Special"
       }
     ],
     "AllChannelSubjectID": "PU6000",
@@ -1584,8 +1584,8 @@
     "mainPageRows": [
       {
         "index": 0,
-        "subjectID": "UW5002",
-        "description": "New This Week"
+        "subjectID": "U2006",
+        "description": "Running Man Special"
       },
       {
         "index": 1,
@@ -1981,8 +1981,8 @@
         "description": "Info"
       },
       {
-        "subjectID": "SW5002",
-        "description": "New This Week"
+        "subjectID": "S2006",
+        "description": "Running Man Special"
       }
     ],
     "AllChannelSubjectID": "PS6000",
@@ -1995,8 +1995,8 @@
     "mainPageRows": [
       {
         "index": 0,
-        "subjectID": "SW5002",
-        "description": "New This Week"
+        "subjectID": "S2006",
+        "description": "Running Man Special"
       },
       {
         "index": 1,
